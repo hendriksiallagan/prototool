@@ -1,4 +1,4 @@
-module github.com/prototool
+module github.com/hendriksiallagan/prototool
 
 go 1.18
 
